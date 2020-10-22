@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/programarivm/solidity-hello-world#readme",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.1.1"
+    "@truffle/hdwallet-provider": "^1.1.1",
+    "dotenv": "^8.2.0"
   }
 }
