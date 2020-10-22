@@ -1,0 +1,19 @@
+{
+  "name": "solidity-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programarivm/solidity-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programarivm/solidity-hello-world/issues"
+  },
+  "homepage": "https://github.com/programarivm/solidity-hello-world#readme"
+}
